@@ -1,3 +1,5 @@
+adding readme after stash 
+
 modifying reading file for stashing
 # Starter Web Repo
 

@@ -1,3 +1,4 @@
+making a simple technology edit
 editing for stashing 1
 # humanstxt.org/
 # The humans responsible & technology colophon
